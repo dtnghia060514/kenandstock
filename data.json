@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T14:23",
+ "generated_at": "2026-11-08T16:47",
  "data_as_of": "2026-11-06",
  "vnstock_tier": "free",
  "capital_vnd": 100000000.0,
@@ -135,6 +135,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 10429,
+     "pullback_high": 10650,
+     "breakout": 11000
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 10,429-10,650 VND (MA20) on below-average volume, or (b) a close above 11,000 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY",
     "entry": "Buy zone 10,700-10,900 VND (Agent 2 buy signal confirmed).",
     "targets": {
@@ -539,6 +545,33 @@
      10429
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "OCB",
+     "date": "2026-11-06",
+     "sector": "8300",
+     "ext": 0.026,
+     "rsi": 55.504,
+     "relvol": 0.4722,
+     "close_pos": 0.5,
+     "atr_pct": 3.1776,
+     "room_atr": 1.1765,
+     "at_high": false,
+     "rs20": 0.0799,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0138,
+     "near_52w": 0.9224,
+     "idx_above_ma20": false,
+     "sector_up": false,
+     "worst_20d": -4.2453,
+     "foreign_net": -0.6605
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 1
   },
   {
@@ -650,6 +683,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 12968,
+     "pullback_high": 13250,
+     "breakout": 12900
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 12,968-13,250 VND (MA20) on below-average volume, or (b) a close above 12,900 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY",
     "entry": "Buy zone 12,750-12,950 VND (Agent 2 buy signal confirmed).",
     "targets": {
@@ -1048,6 +1087,33 @@
      12968
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "HT1",
+     "date": "2026-11-06",
+     "sector": "2300",
+     "ext": -0.0168,
+     "rsi": 49.1169,
+     "relvol": 0.5964,
+     "close_pos": 0.5,
+     "atr_pct": 3.9776,
+     "room_atr": 2.8592,
+     "at_high": false,
+     "rs20": 0.0464,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0379,
+     "near_52w": 0.7236,
+     "idx_above_ma20": false,
+     "sector_up": false,
+     "worst_20d": -4.6512,
+     "foreign_net": -1.0
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 2
   },
   {
@@ -1158,6 +1224,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 12425,
+     "pullback_high": 12700,
+     "breakout": 13350
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 12,425-12,700 VND (MA20) on below-average volume, or (b) a close above 13,350 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 12,425-12,700 VND (MA20) on below-average volume, or (b) a close above 13,350 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -1554,6 +1626,33 @@
      12425
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "TPB",
+     "date": "2026-11-06",
+     "sector": "8300",
+     "ext": 0.0221,
+     "rsi": 57.1235,
+     "relvol": 1.6726,
+     "close_pos": 0.6667,
+     "atr_pct": 3.4308,
+     "room_atr": 1.4918,
+     "at_high": false,
+     "rs20": 0.1148,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0138,
+     "near_52w": 0.8048,
+     "idx_above_ma20": false,
+     "sector_up": false,
+     "worst_20d": -1.938,
+     "foreign_net": 0.6846
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 3
   },
   {
@@ -1644,6 +1743,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 15482,
+     "pullback_high": 15800,
+     "breakout": 16600
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 15,482-15,800 VND (MA20) on below-average volume, or (b) a close above 16,600 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 15,482-15,800 VND (MA20) on below-average volume, or (b) a close above 16,600 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -2046,6 +2151,33 @@
      15482
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "MSB",
+     "date": "2026-11-06",
+     "sector": "8300",
+     "ext": 0.056,
+     "rsi": 74.7121,
+     "relvol": 0.8803,
+     "close_pos": 0.3333,
+     "atr_pct": 2.1625,
+     "room_atr": 0.7071,
+     "at_high": false,
+     "rs20": 0.1255,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0138,
+     "near_52w": 0.9849,
+     "idx_above_ma20": false,
+     "sector_up": false,
+     "worst_20d": -1.5576,
+     "foreign_net": -0.7522
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 4
   },
   {
@@ -2154,6 +2286,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 11476,
+     "pullback_high": 11750,
+     "breakout": 12300
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 11,476-11,750 VND (MA20) on below-average volume, or (b) a close above 12,300 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 11,476-11,750 VND (MA20) on below-average volume, or (b) a close above 12,300 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -2564,6 +2702,33 @@
      11476
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "NKG",
+     "date": "2026-11-06",
+     "sector": "1700",
+     "ext": 0.0588,
+     "rsi": 64.4082,
+     "relvol": 1.2984,
+     "close_pos": 0.1667,
+     "atr_pct": 4.468,
+     "room_atr": 1.1974,
+     "at_high": false,
+     "rs20": 0.3135,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0705,
+     "near_52w": 0.757,
+     "idx_above_ma20": false,
+     "sector_up": true,
+     "worst_20d": -2.8,
+     "foreign_net": 0.3301
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 5
   },
   {
@@ -2654,6 +2819,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 30442,
+     "pullback_high": 31100,
+     "breakout": 32350
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 30,442-31,100 VND (MA20) on below-average volume, or (b) a close above 32,350 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 30,442-31,100 VND (MA20) on below-average volume, or (b) a close above 32,350 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -3050,6 +3221,33 @@
      30442
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "CTG",
+     "date": "2026-11-06",
+     "sector": "8300",
+     "ext": 0.0462,
+     "rsi": 64.8184,
+     "relvol": 1.503,
+     "close_pos": 1.0,
+     "atr_pct": 1.839,
+     "room_atr": 1.622,
+     "at_high": false,
+     "rs20": 0.0853,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0138,
+     "near_52w": 0.7435,
+     "idx_above_ma20": false,
+     "sector_up": false,
+     "worst_20d": -1.8152,
+     "foreign_net": 0.1194
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 6
   },
   {
@@ -3146,6 +3344,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 10752,
+     "pullback_high": 11000,
+     "breakout": 11000
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 10,752-11,000 VND (MA20) on below-average volume, or (b) a close above 11,000 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 10,752-11,000 VND (MA20) on below-average volume, or (b) a close above 11,000 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -3543,6 +3747,33 @@
      10752
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "HSG",
+     "date": "2026-11-06",
+     "sector": "1700",
+     "ext": 0.0137,
+     "rsi": 55.1024,
+     "relvol": 0.9635,
+     "close_pos": 0.5,
+     "atr_pct": 3.768,
+     "room_atr": 1.2174,
+     "at_high": false,
+     "rs20": 0.1066,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0705,
+     "near_52w": 0.7985,
+     "idx_above_ma20": false,
+     "sector_up": true,
+     "worst_20d": -5.0691,
+     "foreign_net": 0.3098
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 7
   },
   {
@@ -3660,6 +3891,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 26455,
+     "pullback_high": 27000,
+     "breakout": 27400
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 26,455-27,000 VND (MA20) on below-average volume, or (b) a close above 27,400 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 26,455-27,000 VND (MA20) on below-average volume, or (b) a close above 27,400 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -4057,6 +4294,33 @@
      26455
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "KBC",
+     "date": "2026-11-06",
+     "sector": "8600",
+     "ext": 0.0187,
+     "rsi": 58.4314,
+     "relvol": 0.8585,
+     "close_pos": 0.6,
+     "atr_pct": 2.2263,
+     "room_atr": 2.5833,
+     "at_high": false,
+     "rs20": 0.0625,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0006,
+     "near_52w": 0.7055,
+     "idx_above_ma20": false,
+     "sector_up": true,
+     "worst_20d": -1.8868,
+     "foreign_net": 0.6072
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 8
   },
   {
@@ -4155,6 +4419,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 65345,
+     "pullback_high": 66700,
+     "breakout": 72900
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 65,345-66,700 VND (MA20) on below-average volume, or (b) a close above 72,900 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 65,345-66,700 VND (MA20) on below-average volume, or (b) a close above 72,900 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -4559,6 +4829,33 @@
      65345
     ]
    },
+   "self_review": {
+    "features": {
+     "symbol": "CTD",
+     "date": "2026-11-06",
+     "sector": "2300",
+     "ext": 0.0452,
+     "rsi": 64.5937,
+     "relvol": 0.7227,
+     "close_pos": 0.8667,
+     "atr_pct": 3.5662,
+     "room_atr": 0.6979,
+     "at_high": false,
+     "rs20": 0.1019,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0379,
+     "near_52w": 0.7564,
+     "idx_above_ma20": false,
+     "sector_up": false,
+     "worst_20d": -4.8529,
+     "foreign_net": 0.2693
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
+   },
    "rank": 9
   },
   {
@@ -4654,6 +4951,12 @@
     ]
    },
    "insights": {
+    "trigger": {
+     "pullback_low": 12392,
+     "pullback_high": 12650,
+     "breakout": 12750
+    },
+    "entry_trigger": "Wait for a trigger: (a) a quiet pullback to 12,392-12,650 VND (MA20) on below-average volume, or (b) a close above 12,750 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "label": "BUY ON TRIGGER",
     "entry": "Wait for a trigger: (a) a quiet pullback to 12,392-12,650 VND (MA20) on below-average volume, or (b) a close above 12,750 VND on volume >= 1.5x average. Re-size the stop from your actual entry.",
     "targets": {
@@ -5049,6 +5352,33 @@
      12370,
      12392
     ]
+   },
+   "self_review": {
+    "features": {
+     "symbol": "NAB",
+     "date": "2026-11-06",
+     "sector": "8300",
+     "ext": 0.0167,
+     "rsi": 57.8074,
+     "relvol": 1.0526,
+     "close_pos": 0.6,
+     "atr_pct": 2.381,
+     "room_atr": 1.6667,
+     "at_high": false,
+     "rs20": 0.0426,
+     "regime_up": false,
+     "breadth": 0.4538,
+     "sector_rs20": 0.0138,
+     "near_52w": 0.9333,
+     "idx_above_ma20": false,
+     "sector_up": false,
+     "worst_20d": -2.439,
+     "foreign_net": 0.8474
+    },
+    "passed": [],
+    "failed": [],
+    "score_adj": 0.0,
+    "downgraded": false
    },
    "rank": 10
   }
@@ -5567,6 +5897,499 @@
      ]
     }
    }
+  }
+ },
+ "self_review": {
+  "replayed": 1072,
+  "period": "2024-08-30 → 2026-10-23",
+  "cutoff": "2025-10-23",
+  "overall": {
+   "n": 1072,
+   "hit_pct": 37.4,
+   "hit_low95_pct": 34.6,
+   "avg_ret_pct": -0.16,
+   "stop_pct": 23.3
+  },
+  "losers": 536,
+  "causes": [
+   {
+    "cause": "NO_FOLLOW_THROUGH",
+    "primary_share_pct": 32.1,
+    "in_losers_pct": 51.9,
+    "in_winners_pct": 0.0,
+    "explains": false,
+    "symptom": true
+   },
+   {
+    "cause": "UNEXPLAINED",
+    "primary_share_pct": 28.7,
+    "in_losers_pct": 9.9,
+    "in_winners_pct": 38.2,
+    "explains": false,
+    "symptom": false
+   },
+   {
+    "cause": "SHOCK",
+    "primary_share_pct": 15.9,
+    "in_losers_pct": 15.9,
+    "in_winners_pct": 1.7,
+    "explains": true,
+    "symptom": false
+   },
+   {
+    "cause": "SECTOR_DRAG",
+    "primary_share_pct": 12.7,
+    "in_losers_pct": 14.4,
+    "in_winners_pct": 2.0,
+    "explains": true,
+    "symptom": false
+   },
+   {
+    "cause": "MARKET_DRAG",
+    "primary_share_pct": 10.6,
+    "in_losers_pct": 20.1,
+    "in_winners_pct": 4.5,
+    "explains": true,
+    "symptom": false
+   },
+   {
+    "cause": "EXTENDED_ENTRY",
+    "primary_share_pct": 0.0,
+    "in_losers_pct": 28.5,
+    "in_winners_pct": 32.7,
+    "explains": false,
+    "symptom": false
+   },
+   {
+    "cause": "WEAK_REGIME",
+    "primary_share_pct": 0.0,
+    "in_losers_pct": 26.9,
+    "in_winners_pct": 29.2,
+    "explains": false,
+    "symptom": false
+   },
+   {
+    "cause": "RESISTANCE",
+    "primary_share_pct": 0.0,
+    "in_losers_pct": 18.8,
+    "in_winners_pct": 19.0,
+    "explains": false,
+    "symptom": false
+   },
+   {
+    "cause": "STOP_NOISE",
+    "primary_share_pct": 0.0,
+    "in_losers_pct": 3.4,
+    "in_winners_pct": 0.0,
+    "explains": false,
+    "symptom": true
+   }
+  ],
+  "criteria": [
+   {
+    "code": "REGIME_UP",
+    "label": "VNINDEX above its MA50",
+    "train": {
+     "n": 505,
+     "hit_pct": 35.2,
+     "hit_low95_pct": 31.2,
+     "avg_ret_pct": -0.08,
+     "stop_pct": 19.0
+    },
+    "test": {
+     "n": 269,
+     "hit_pct": 39.4,
+     "hit_low95_pct": 33.8,
+     "avg_ret_pct": -0.51,
+     "stop_pct": 33.5
+    },
+    "coverage_pct": 72.2,
+    "status": "tested",
+    "lift_train_pp": -2.8,
+    "lift_test_pp": 2.7,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "BREADTH_50",
+    "label": "Market breadth: at least 50% of stocks above their MA50",
+    "train": {
+     "n": 444,
+     "hit_pct": 35.8,
+     "hit_low95_pct": 31.5,
+     "avg_ret_pct": 0.06,
+     "stop_pct": 17.8
+    },
+    "test": {
+     "n": 91,
+     "hit_pct": 44.0,
+     "hit_low95_pct": 34.2,
+     "avg_ret_pct": -0.7,
+     "stop_pct": 41.8
+    },
+    "coverage_pct": 49.9,
+    "status": "tested",
+    "lift_train_pp": -2.2,
+    "lift_test_pp": 7.3,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "SECTOR_STRONG",
+    "label": "Sector outperforming VNINDEX over 20 sessions",
+    "train": {
+     "n": 406,
+     "hit_pct": 38.7,
+     "hit_low95_pct": 34.1,
+     "avg_ret_pct": 0.4,
+     "stop_pct": 15.8
+    },
+    "test": {
+     "n": 269,
+     "hit_pct": 36.8,
+     "hit_low95_pct": 31.3,
+     "avg_ret_pct": -0.62,
+     "stop_pct": 32.0
+    },
+    "coverage_pct": 63.0,
+    "status": "tested",
+    "lift_train_pp": 0.7,
+    "lift_test_pp": 0.1,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "NOT_EXTENDED",
+    "label": "Entry at most 3% above MA20",
+    "train": {
+     "n": 289,
+     "hit_pct": 36.3,
+     "hit_low95_pct": 31.0,
+     "avg_ret_pct": -0.02,
+     "stop_pct": 18.3
+    },
+    "test": {
+     "n": 207,
+     "hit_pct": 34.3,
+     "hit_low95_pct": 28.2,
+     "avg_ret_pct": -0.38,
+     "stop_pct": 24.2
+    },
+    "coverage_pct": 46.3,
+    "status": "tested",
+    "lift_train_pp": -1.7,
+    "lift_test_pp": -2.4,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "RSI_45_65",
+    "label": "RSI between 45 and 65",
+    "train": {
+     "n": 434,
+     "hit_pct": 36.9,
+     "hit_low95_pct": 32.5,
+     "avg_ret_pct": -0.02,
+     "stop_pct": 18.4
+    },
+    "test": {
+     "n": 398,
+     "hit_pct": 35.4,
+     "hit_low95_pct": 30.9,
+     "avg_ret_pct": -0.68,
+     "stop_pct": 30.2
+    },
+    "coverage_pct": 77.6,
+    "status": "tested",
+    "lift_train_pp": -1.1,
+    "lift_test_pp": -1.3,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "VOLUME_CONFIRM",
+    "label": "Signal-day volume at least the 20-day average",
+    "train": {
+     "n": 233,
+     "hit_pct": 40.3,
+     "hit_low95_pct": 34.2,
+     "avg_ret_pct": 0.06,
+     "stop_pct": 19.7
+    },
+    "test": {
+     "n": 195,
+     "hit_pct": 36.9,
+     "hit_low95_pct": 30.5,
+     "avg_ret_pct": -0.83,
+     "stop_pct": 34.9
+    },
+    "coverage_pct": 39.9,
+    "status": "tested",
+    "lift_train_pp": 2.3,
+    "lift_test_pp": 0.2,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "ROOM_TO_RUN",
+    "label": "At least 1.5 ATR of room to the 60-day high, or a fresh breakout",
+    "train": {
+     "n": 372,
+     "hit_pct": 37.1,
+     "hit_low95_pct": 32.3,
+     "avg_ret_pct": 0.14,
+     "stop_pct": 17.7
+    },
+    "test": {
+     "n": 309,
+     "hit_pct": 35.9,
+     "hit_low95_pct": 30.8,
+     "avg_ret_pct": -0.69,
+     "stop_pct": 30.7
+    },
+    "coverage_pct": 63.5,
+    "status": "tested",
+    "lift_train_pp": -0.9,
+    "lift_test_pp": -0.8,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "LOW_VOL",
+    "label": "Volatility at most 3% (ATR as % of price)",
+    "train": {
+     "n": 420,
+     "hit_pct": 34.3,
+     "hit_low95_pct": 29.9,
+     "avg_ret_pct": 0.12,
+     "stop_pct": 15.0
+    },
+    "test": {
+     "n": 186,
+     "hit_pct": 32.3,
+     "hit_low95_pct": 26.0,
+     "avg_ret_pct": 0.01,
+     "stop_pct": 16.1
+    },
+    "coverage_pct": 56.5,
+    "status": "tested",
+    "lift_train_pp": -3.7,
+    "lift_test_pp": -4.4,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "STRONG_CLOSE",
+    "label": "Closed in the top 30% of the day's range",
+    "train": {
+     "n": 210,
+     "hit_pct": 35.2,
+     "hit_low95_pct": 29.1,
+     "avg_ret_pct": -0.04,
+     "stop_pct": 17.6
+    },
+    "test": {
+     "n": 165,
+     "hit_pct": 37.0,
+     "hit_low95_pct": 30.0,
+     "avg_ret_pct": -0.57,
+     "stop_pct": 30.3
+    },
+    "coverage_pct": 35.0,
+    "status": "tested",
+    "lift_train_pp": -2.8,
+    "lift_test_pp": 0.3,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "RS_5",
+    "label": "Outperforming VNINDEX by at least 5% over 20 sessions",
+    "train": {
+     "n": 327,
+     "hit_pct": 42.5,
+     "hit_low95_pct": 37.3,
+     "avg_ret_pct": 0.39,
+     "stop_pct": 19.3
+    },
+    "test": {
+     "n": 349,
+     "hit_pct": 36.4,
+     "hit_low95_pct": 31.5,
+     "avg_ret_pct": -0.82,
+     "stop_pct": 34.4
+    },
+    "coverage_pct": 63.1,
+    "status": "tested",
+    "lift_train_pp": 4.5,
+    "lift_test_pp": -0.3,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "NEAR_52W_HIGH",
+    "label": "Within 10% of the 52-week high",
+    "train": {
+     "n": 320,
+     "hit_pct": 36.6,
+     "hit_low95_pct": 31.5,
+     "avg_ret_pct": 0.39,
+     "stop_pct": 15.9
+    },
+    "test": {
+     "n": 151,
+     "hit_pct": 35.1,
+     "hit_low95_pct": 27.9,
+     "avg_ret_pct": -0.76,
+     "stop_pct": 31.8
+    },
+    "coverage_pct": 43.9,
+    "status": "tested",
+    "lift_train_pp": -1.4,
+    "lift_test_pp": -1.6,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "IDX_ABOVE_MA20",
+    "label": "VNINDEX above its MA20 (short-term market health)",
+    "train": {
+     "n": 456,
+     "hit_pct": 36.8,
+     "hit_low95_pct": 32.5,
+     "avg_ret_pct": 0.15,
+     "stop_pct": 17.3
+    },
+    "test": {
+     "n": 228,
+     "hit_pct": 38.2,
+     "hit_low95_pct": 32.1,
+     "avg_ret_pct": -0.64,
+     "stop_pct": 31.6
+    },
+    "coverage_pct": 63.8,
+    "status": "tested",
+    "lift_train_pp": -1.2,
+    "lift_test_pp": 1.5,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "SECTOR_UPTREND",
+    "label": "Stock's sector index above its own MA20",
+    "train": {
+     "n": 482,
+     "hit_pct": 37.6,
+     "hit_low95_pct": 33.3,
+     "avg_ret_pct": 0.36,
+     "stop_pct": 15.4
+    },
+    "test": {
+     "n": 292,
+     "hit_pct": 35.3,
+     "hit_low95_pct": 30.0,
+     "avg_ret_pct": -0.89,
+     "stop_pct": 32.5
+    },
+    "coverage_pct": 72.2,
+    "status": "tested",
+    "lift_train_pp": -0.4,
+    "lift_test_pp": -1.4,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "NO_RECENT_SHOCK",
+    "label": "No single-day drop of 4% or more in the last 20 sessions",
+    "train": {
+     "n": 507,
+     "hit_pct": 37.7,
+     "hit_low95_pct": 33.6,
+     "avg_ret_pct": 0.17,
+     "stop_pct": 16.2
+    },
+    "test": {
+     "n": 278,
+     "hit_pct": 36.3,
+     "hit_low95_pct": 30.9,
+     "avg_ret_pct": -0.22,
+     "stop_pct": 24.5
+    },
+    "coverage_pct": 73.2,
+    "status": "tested",
+    "lift_train_pp": -0.3,
+    "lift_test_pp": -0.4,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "FOREIGN_NET_BUY",
+    "label": "Foreign investors net buyers on the signal day",
+    "train": {
+     "n": 0
+    },
+    "test": {
+     "n": 0
+    },
+    "coverage_pct": 0.0,
+    "status": "collecting",
+    "lift_train_pp": null,
+    "lift_test_pp": null,
+    "adopt": false,
+    "adopted": false
+   }
+  ],
+  "adopted": [],
+  "combined": {
+   "base_train": {
+    "n": 606,
+    "hit_pct": 38.0,
+    "hit_low95_pct": 34.2,
+    "avg_ret_pct": 0.2,
+    "stop_pct": 17.8
+   },
+   "base_test": {
+    "n": 466,
+    "hit_pct": 36.7,
+    "hit_low95_pct": 32.4,
+    "avg_ret_pct": -0.62,
+    "stop_pct": 30.5
+   }
+  },
+  "gaps": [
+   {
+    "gap": "NEWS_EVENTS",
+    "losses_explained_pct": 44.6
+   },
+   {
+    "gap": "SMART_MONEY",
+    "losses_explained_pct": 32.1
+   },
+   {
+    "gap": "FUNDAMENTAL_PIT",
+    "losses_explained_pct": 28.7
+   },
+   {
+    "gap": "SECTOR_FLOW",
+    "losses_explained_pct": 12.7
+   },
+   {
+    "gap": "MARKET_TIMING",
+    "losses_explained_pct": 10.6
+   }
+  ],
+  "journal": {
+   "graded": 0,
+   "pending": 0,
+   "not_triggered": 0,
+   "recent": []
+  },
+  "self_tuning": true,
+  "data_collection": {
+   "foreign_flow_sessions": 1,
+   "since": "2026-11-06",
+   "needed_sessions": 60,
+   "ready": false
   }
  },
  "rejected": [
