@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:33",
+ "generated_at": "2026-11-10T21:07",
  "data_as_of": "2026-11-10",
  "vnstock_tier": "free",
  "capital_vnd": 100000000.0,
@@ -578,13 +578,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": true
+     "insider_sell_30d": true,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 1
   },
   {
@@ -1140,13 +1145,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 2
   },
   {
@@ -1714,13 +1724,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": true
+     "insider_sell_30d": true,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 3
   },
   {
@@ -2268,13 +2283,33 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [
+    {
+     "date": "2026-11-10",
+     "source": "CafeF",
+     "title": "Hoa Sen Group dự chi gần 2.000 tỷ đồng mua cổ phần của Hoa Sen Home",
+     "link": "https://cafef.vn/hoa-sen-group-du-chi-gan-2000-ty-dong-mua-co-phan-cua-hoa-sen-home-188261110170134778.chn",
+     "tone": "neutral"
+    },
+    {
+     "date": "2026-11-09",
+     "source": "CafeF",
+     "title": "“Ông lớn” vật liệu xây dựng tung chiêu bán hàng mới: Không cần vốn vẫn nhận hoa hồng tới 10%",
+     "link": "https://cafef.vn/ong-lon-vat-lieu-xay-dung-tung-chieu-ban-hang-moi-khong-can-von-van-nhan-hoa-hong-toi-10-188261109141347932.chn",
+     "tone": "neutral"
+    }
+   ],
    "rank": 4
   },
   {
@@ -2834,13 +2869,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 5
   },
   {
@@ -3366,13 +3406,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 6
   },
   {
@@ -3938,13 +3983,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 7
   },
   {
@@ -4490,13 +4540,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 8
   },
   {
@@ -5022,13 +5077,26 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [
+    {
+     "date": "2026-11-09",
+     "source": "Vietstock",
+     "title": "Tuần 09-13/11/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+     "link": "http://vietstock.vn/2026/11/tuan-09-13112026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1512750.htm",
+     "tone": "neutral"
+    }
+   ],
    "rank": 9
   },
   {
@@ -5558,13 +5626,18 @@
      "events_known": 1.0,
      "event_upcoming": false,
      "event_in_hold": false,
-     "insider_sell_30d": false
+     "insider_sell_30d": false,
+     "news_known": 1.0,
+     "bad_news_5d": false,
+     "policy_tone_3d": 0.0
     },
     "passed": [],
     "failed": [],
     "score_adj": 0.0,
     "downgraded": false
    },
+   "expert_calls": [],
+   "news": [],
    "rank": 10
   }
  ],
@@ -6237,7 +6310,7 @@
     "cause": "UNEXPLAINED",
     "primary_share_pct": 28.1,
     "in_losers_pct": 8.5,
-    "in_winners_pct": 36.8,
+    "in_winners_pct": 37.0,
     "explains": false,
     "symptom": false
    },
@@ -6292,7 +6365,7 @@
    {
     "cause": "EVENT_RISK",
     "primary_share_pct": 0.0,
-    "in_losers_pct": 10.2,
+    "in_losers_pct": 9.4,
     "in_winners_pct": 7.3,
     "explains": false,
     "symptom": false
@@ -6663,23 +6736,23 @@
     "code": "NO_SCHEDULED_EVENT",
     "label": "No ex-rights date, shareholder meeting or new listing in the next 5 sessions",
     "train": {
-     "n": 544,
-     "hit_pct": 37.5,
-     "hit_low95_pct": 33.5,
-     "avg_ret_pct": 0.21,
-     "stop_pct": 17.3
+     "n": 547,
+     "hit_pct": 38.4,
+     "hit_low95_pct": 34.4,
+     "avg_ret_pct": 0.34,
+     "stop_pct": 16.8
     },
     "test": {
-     "n": 436,
-     "hit_pct": 36.9,
-     "hit_low95_pct": 32.5,
-     "avg_ret_pct": -0.55,
+     "n": 419,
+     "hit_pct": 36.3,
+     "hit_low95_pct": 31.8,
+     "avg_ret_pct": -0.57,
      "stop_pct": 29.4
     },
     "coverage_pct": 95.0,
     "status": "tested",
-    "lift_train_pp": 0.4,
-    "lift_test_pp": 0.1,
+    "lift_train_pp": 0.6,
+    "lift_test_pp": -0.3,
     "adopt": false,
     "adopted": false
    },
@@ -6687,23 +6760,23 @@
     "code": "NO_INSIDER_SELLING",
     "label": "No insider sell registration in the last 30 days",
     "train": {
-     "n": 484,
-     "hit_pct": 37.4,
-     "hit_low95_pct": 33.2,
-     "avg_ret_pct": 0.05,
-     "stop_pct": 18.6
+     "n": 490,
+     "hit_pct": 38.2,
+     "hit_low95_pct": 34.0,
+     "avg_ret_pct": 0.19,
+     "stop_pct": 18.0
     },
     "test": {
-     "n": 381,
-     "hit_pct": 35.4,
-     "hit_low95_pct": 30.8,
-     "avg_ret_pct": -0.7,
-     "stop_pct": 29.9
+     "n": 366,
+     "hit_pct": 35.8,
+     "hit_low95_pct": 31.1,
+     "avg_ret_pct": -0.6,
+     "stop_pct": 29.0
     },
-    "coverage_pct": 84.3,
+    "coverage_pct": 84.8,
     "status": "tested",
-    "lift_train_pp": 0.3,
-    "lift_test_pp": -1.4,
+    "lift_train_pp": 0.4,
+    "lift_test_pp": -0.8,
     "adopt": false,
     "adopted": false
    },
@@ -6778,6 +6851,38 @@
     "lift_test_pp": -0.3,
     "adopt": false,
     "adopted": false
+   },
+   {
+    "code": "NO_BAD_NEWS_5D",
+    "label": "No negative headline about the stock in the last 5 days",
+    "train": {
+     "n": 0
+    },
+    "test": {
+     "n": 0
+    },
+    "coverage_pct": 100.0,
+    "status": "collecting",
+    "lift_train_pp": null,
+    "lift_test_pp": null,
+    "adopt": false,
+    "adopted": false
+   },
+   {
+    "code": "MARKET_NEWS_OK",
+    "label": "Policy / macro news tone not negative over the last 3 days",
+    "train": {
+     "n": 0
+    },
+    "test": {
+     "n": 0
+    },
+    "coverage_pct": 100.0,
+    "status": "collecting",
+    "lift_train_pp": null,
+    "lift_test_pp": null,
+    "adopt": false,
+    "adopted": false
    }
   ],
   "adopted": [],
@@ -6821,7 +6926,7 @@
   ],
   "journal": {
    "graded": 0,
-   "pending": 10,
+   "pending": 20,
    "not_triggered": 0,
    "recent": []
   },
@@ -6831,8 +6936,61 @@
    "since": "2026-11-06",
    "needed_sessions": 60,
    "ready": false,
-   "events_stocks": 126
+   "events_stocks": 122
   }
+ },
+ "news": {
+  "fetched": 180,
+  "new": 180,
+  "errors": {},
+  "items": 180,
+  "since": "2026-11-10",
+  "days": 1,
+  "needed_days": 60,
+  "ready": false,
+  "market": {
+   "positive": 2,
+   "negative": 3,
+   "items": [
+    {
+     "date": "2026-11-10",
+     "source": "Tin nhanh chứng khoán",
+     "title": "NHNN mua ngoại tệ giao ngay, chứng khoán sẽ có thêm lực đỡ",
+     "link": "https://www.tinnhanhchungkhoan.vn/nhnn-mua-ngoai-te-giao-ngay-chung-khoan-se-co-them-luc-do-post401155.html",
+     "tone": "positive"
+    },
+    {
+     "date": "2026-11-10",
+     "source": "CafeF",
+     "title": "Ngân hàng Nhà nước bơm thêm VND, chứng khoán bật tăng gần 29 điểm",
+     "link": "https://cafef.vn/ngan-hang-nha-nuoc-bom-them-vnd-chung-khoan-bat-tang-gan-29-diem-188261110164611689.chn",
+     "tone": "positive"
+    },
+    {
+     "date": "2026-11-10",
+     "source": "VnExpress",
+     "title": "Ngân hàng Nhà nước sẽ định kỳ mua USD từ các nhà băng",
+     "link": "https://vnexpress.net/ngan-hang-nha-nuoc-se-dinh-ky-mua-usd-tu-cac-nha-bang-5142801.html",
+     "tone": "neutral"
+    },
+    {
+     "date": "2026-11-10",
+     "source": "Tin nhanh chứng khoán",
+     "title": "UBCKNN cảnh báo thủ đoạn giả danh CTCK, lợi dụng quy định xác thực định danh điện tử",
+     "link": "https://www.tinnhanhchungkhoan.vn/ubcknn-canh-bao-thu-doan-gia-danh-ctck-loi-dung-quy-dinh-xac-thuc-dinh-danh-dien-tu-post401121.html",
+     "tone": "neutral"
+    }
+   ]
+  }
+ },
+ "experts": {
+  "file": "expert_calls.csv",
+  "calls": 0,
+  "experts": [],
+  "downgraded": 0,
+  "baseline_hit_pct": 33.2,
+  "min_calls": 20,
+  "min_edge_pp": 5.0
  },
  "rejected": [
   {
