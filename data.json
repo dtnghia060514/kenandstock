@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T21:07",
+ "generated_at": "2026-11-10T22:05",
  "data_as_of": "2026-11-10",
  "vnstock_tier": "free",
  "capital_vnd": 100000000.0,
@@ -6365,7 +6365,7 @@
    {
     "cause": "EVENT_RISK",
     "primary_share_pct": 0.0,
-    "in_losers_pct": 9.4,
+    "in_losers_pct": 9.8,
     "in_winners_pct": 7.3,
     "explains": false,
     "symptom": false
@@ -6736,23 +6736,23 @@
     "code": "NO_SCHEDULED_EVENT",
     "label": "No ex-rights date, shareholder meeting or new listing in the next 5 sessions",
     "train": {
-     "n": 547,
-     "hit_pct": 38.4,
-     "hit_low95_pct": 34.4,
-     "avg_ret_pct": 0.34,
-     "stop_pct": 16.8
+     "n": 555,
+     "hit_pct": 38.0,
+     "hit_low95_pct": 34.1,
+     "avg_ret_pct": 0.3,
+     "stop_pct": 16.9
     },
     "test": {
-     "n": 419,
-     "hit_pct": 36.3,
-     "hit_low95_pct": 31.8,
-     "avg_ret_pct": -0.57,
-     "stop_pct": 29.4
+     "n": 437,
+     "hit_pct": 36.6,
+     "hit_low95_pct": 32.2,
+     "avg_ret_pct": -0.59,
+     "stop_pct": 29.7
     },
-    "coverage_pct": 95.0,
+    "coverage_pct": 94.9,
     "status": "tested",
-    "lift_train_pp": 0.6,
-    "lift_test_pp": -0.3,
+    "lift_train_pp": 0.5,
+    "lift_test_pp": -0.2,
     "adopt": false,
     "adopted": false
    },
@@ -6760,23 +6760,23 @@
     "code": "NO_INSIDER_SELLING",
     "label": "No insider sell registration in the last 30 days",
     "train": {
-     "n": 490,
-     "hit_pct": 38.2,
-     "hit_low95_pct": 34.0,
-     "avg_ret_pct": 0.19,
-     "stop_pct": 18.0
+     "n": 495,
+     "hit_pct": 37.8,
+     "hit_low95_pct": 33.6,
+     "avg_ret_pct": 0.14,
+     "stop_pct": 18.2
     },
     "test": {
-     "n": 366,
-     "hit_pct": 35.8,
-     "hit_low95_pct": 31.1,
-     "avg_ret_pct": -0.6,
-     "stop_pct": 29.0
+     "n": 381,
+     "hit_pct": 35.7,
+     "hit_low95_pct": 31.0,
+     "avg_ret_pct": -0.67,
+     "stop_pct": 29.7
     },
-    "coverage_pct": 84.8,
+    "coverage_pct": 84.1,
     "status": "tested",
-    "lift_train_pp": 0.4,
-    "lift_test_pp": -0.8,
+    "lift_train_pp": 0.3,
+    "lift_test_pp": -1.1,
     "adopt": false,
     "adopted": false
    },
@@ -6936,14 +6936,14 @@
    "since": "2026-11-06",
    "needed_sessions": 60,
    "ready": false,
-   "events_stocks": 122
+   "events_stocks": 127
   }
  },
  "news": {
   "fetched": 180,
-  "new": 180,
+  "new": 1,
   "errors": {},
-  "items": 180,
+  "items": 181,
   "since": "2026-11-10",
   "days": 1,
   "needed_days": 60,
